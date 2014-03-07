@@ -1,0 +1,22 @@
+{
+  "name": "ied",
+  "version": "0.0.0",
+  "description": "scraping indian energy data",
+  "dependencies" : {
+      "cheerio" : "*",
+      "jquery" : "*",
+      "jsdom" : "*",
+      "request" : "*"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "india",
+    "energy",
+    "jquery"
+  ],
+  "author": "myf, ctan",
+  "license": "MIT"
+}
